@@ -1,0 +1,118 @@
+body {
+
+    background-color: pink;
+}
+
+#box {
+    width: 1300px;
+    display:flex;
+}
+
+#banner {
+
+    width: 700px;
+    height: 200px;
+}
+
+#left_1{
+
+    width: 1000px;
+    height:200px;
+    display:flex;
+}
+
+#menu{
+width: 1000px;
+height:50px;
+background-color: aqua;
+display:flex;
+
+}
+
+.menu_name {
+
+   width: 20%;
+   padding:7px;
+   text-align:center;
+
+}
+
+#bot{
+
+    width:1000px;
+    height:50px;
+    background-color: orange;
+}
+#content{
+
+    width:1000px;
+    height:50px;
+    background-color:purple;
+}
+
+#con{
+    background-color:brown;
+    height: 1000px;
+    width: 1000px;
+    display:flex;
+}
+
+#left2 {
+
+width:300px;
+height:1350px;
+background-color:yellow;
+
+}
+
+#middle{
+
+    display:flex;
+}
+
+#con_left{
+height:1000px;
+width:600px;
+background-color: aquamarine
+}
+
+#con_right{
+    height:1000px;
+    width:400px;
+    background-color: rgb(79, 180, 11)
+    }
+
+#popup {
+
+    position:absolute;
+    background-color: gray;
+    left: 1350px;
+    right : 0px;
+    top: 50px;
+    width: 300px;
+    height : 1270px;
+    color: white;
+    
+}
+
+#cat{
+
+    width:50px;
+    position:absolute;
+    bottom: 10px;
+    right: 10px;
+}
+#text{
+
+    position:absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+#dog {
+
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+}

@@ -1,0 +1,81 @@
+body{
+
+    background-color:aqua;
+}
+
+#left{
+
+    width: 300px;
+    height:1000px;
+    background-color: pink; 
+    display:flex;
+}
+
+#box {
+    display:flex;
+    width: 1600px;
+}
+
+#logo
+{
+background-color:white;
+width:200px;
+height:200px;
+}
+
+#banner{
+
+    background-color:pink;
+    width: 800px;
+    height: 200px;
+}
+
+
+#bannerbar{
+    display:flex;
+    width:1000px;
+    height:200px;
+}
+
+#middle{
+    display:flex;
+    height:750px;
+    width:1000px;
+   
+}
+
+#middle1{
+
+    height:750px;
+    width:600px;
+    background-color:blanchedalmond;
+}
+
+#middle2{
+
+    height:750px;
+    width:400px;
+    background-color:purple;
+}
+
+#menubar{
+
+    height:50px;
+    width:1000px;
+    background-color:gray;
+
+}
+
+#content{
+
+    height:50px;
+    width:1300px;
+    background-color: plum;
+}
+
+#bottom{
+
+    height:50px;
+    width:1300px;
+    background-color:white;
+}

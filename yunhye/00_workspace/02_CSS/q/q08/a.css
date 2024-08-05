@@ -1,0 +1,27 @@
+#ig {
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to right bottom, green, white);
+}
+
+#ie {
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to right bottom, gray, white);
+}
+
+#il {
+    position: relative;
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to right bottom, green, white);
+}
+
+img {
+
+    width: 80px;
+    position: absolute;
+    right: 40px;
+    left: 40px;
+    top: 20px;
+}
